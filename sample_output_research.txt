@@ -1,0 +1,148 @@
+cap-shape:
+ b: 404 e to 48 p = 8.4167
+ c: 0 e to 4 p = -4.00000
+ x: 1948 e to 1708 p = 1.14052
+ f: 1596 e to 1556 p = 1.02571
+ k: 228 e to 600 p = -2.63158
+ s: 32 e to 0 p = 32.00000
+cap-surface:
+ f: 1560 e to 760 p = 2.05263
+ g: 0 e to 4 p = -4.00000
+ y: 1504 e to 1740 p = -1.15691
+ s: 1144 e to 1413 p = -1.23514
+cap-color:
+ n: 1264 e to 1020 p = 1.23922
+ b: 48 e to 120 p = -2.50000
+ c: 32 e to 13 p = 2.46154
+ g: 1032 e to 808 p = 1.27723
+ r: 16 e to 0 p = 16.00000
+ p: 56 e to 88 p = -1.57143
+ u: 16 e to 0 p = 16.00000
+ e: 624 e to 876 p = -1.40385
+ w: 720 e to 320 p = 2.25000
+ y: 400 e to 672 p = -1.68000
+bruises:
+ t: 2752 e to 624 p = 4.41026
+ f: 1456 e to 3292 p = -2.26099
+odor:
+ a: 400 e to 0 p = 400.00000
+ l: 400 e to 0 p = 400.00000
+ c: 0 e to 192 p = -192.00000
+ y: 0 e to 576 p = -576.00000
+ f: 0 e to 2160 p = -2160.00000
+ m: 0 e to 36 p = -36.00000
+ n: 3408 e to 120 p = 28.40000
+ p: 0 e to 256 p = -256.00000
+ s: 0 e to 577 p = -577.00000
+gill-attachment:
+ a: 192 e to 19 p = 10.10526
+ d: 0 e to 0 p = -nan(ind)
+ f: 4016 e to 3898 p = 1.03027
+ n: 0 e to 0 p = -nan(ind)
+gill-spacing:
+ c: 3008 e to 3804 p = -1.26463
+ w: 1200 e to 112 p = 10.71429
+ d: 0 e to 0 p = -nan(ind)
+gill-size:
+ b: 3920 e to 1692 p = 2.31678
+ n: 288 e to 2224 p = -7.72222
+gill-color:
+ k: 344 e to 64 p = 5.37500
+ n: 936 e to 112 p = 8.35714
+ b: 0 e to 1728 p = -inf
+ h: 204 e to 528 p = -2.58824
+ g: 248 e to 504 p = -2.03226
+ r: 0 e to 24 p = -inf
+ o: 64 e to 0 p = inf
+ p: 852 e to 641 p = 1.32917
+ u: 444 e to 48 p = 9.25000
+ e: 96 e to 0 p = inf
+ w: 956 e to 246 p = 3.88618
+ y: 64 e to 22 p = 2.90909
+stalk-shape:
+ e: 1616 e to 1900 p = -1.17574
+ t: 2592 e to 2016 p = 1.28571
+stalk-root:
+ b: 1920 e to 1856 p = 1.03448
+ c: 512 e to 44 p = 11.63636
+ u: 0 e to 0 p = -nan(ind)
+ e: 864 e to 256 p = 3.37500
+ z: 0 e to 0 p = -nan(ind)
+ r: 192 e to 1 p = 192.00000
+ ?: 720 e to 1760 p = -2.44444
+stalk-surface-above-ring:
+ f: 408 e to 144 p = 2.83333
+ y: 16 e to 8 p = 2.00000
+ k: 144 e to 2228 p = -15.47222
+ s: 3640 e to 1536 p = 2.36979
+stalk-surface-below-ring:
+ f: 456 e to 144 p = 3.16667
+ y: 208 e to 76 p = 2.73684
+ k: 144 e to 2160 p = -15.00000
+ s: 3400 e to 1536 p = 2.21354
+stalk-color-above-ring:
+ n: 16 e to 432 p = -27.00000
+ b: 0 e to 432 p = -inf
+ c: 0 e to 37 p = -inf
+ g: 576 e to 0 p = inf
+ o: 192 e to 0 p = inf
+ p: 576 e to 1296 p = -2.25000
+ e: 96 e to 0 p = inf
+ w: 2752 e to 1712 p = 1.60748
+ y: 0 e to 8 p = -inf
+stalk-color-below-ring:
+ n: 64 e to 448 p = -7.00000
+ b: 0 e to 432 p = -inf
+ c: 0 e to 36 p = -inf
+ g: 576 e to 0 p = inf
+ o: 192 e to 0 p = inf
+ p: 576 e to 1297 p = -2.25174
+ e: 96 e to 0 p = inf
+ w: 2704 e to 1680 p = 1.60952
+ y: 0 e to 24 p = -inf
+veil-type:
+ p: 4208 e to 3916 p = 1.07457
+ u: 0 e to 0 p = -nan(ind)
+veil-color:
+ n: 96 e to 0 p = inf
+ o: 96 e to 0 p = inf
+ w: 4016 e to 3908 p = 1.02764
+ y: 0 e to 8 p = -inf
+ring-number:
+ n: 0 e to 36 p = -inf
+ o: 3680 e to 3808 p = -1.03478
+ t: 528 e to 72 p = 7.33333
+ring-type:
+ c: 0 e to 0 p = -nan(ind)
+ e: 1008 e to 1768 p = -1.75397
+ f: 48 e to 0 p = inf
+ l: 0 e to 1296 p = -inf
+ n: 0 e to 36 p = -inf
+ p: 3152 e to 816 p = 3.86275
+ s: 0 e to 0 p = -nan(ind)
+ z: 0 e to 0 p = -nan(ind)
+spore-print-color:
+ k: 1648 e to 224 p = 7.35714
+ n: 1744 e to 224 p = 7.78571
+ b: 48 e to 0 p = inf
+ h: 48 e to 1584 p = -33.00000
+ r: 0 e to 72 p = -inf
+ o: 48 e to 0 p = inf
+ u: 48 e to 1 p = 48.00000
+ w: 576 e to 1812 p = -3.14583
+ y: 48 e to 0 p = inf
+population:
+ a: 384 e to 0 p = inf
+ c: 0 e to 0 p = -nan(ind)
+ n: 400 e to 0 p = inf
+ s: 880 e to 369 p = 2.38482
+ v: 1192 e to 2848 p = -2.38926
+ y: 1064 e to 648 p = 1.64198
+habitat:
+ g: 1408 e to 740 p = 1.90270
+ l: 240 e to 592 p = -2.46667
+ m: 256 e to 36 p = 7.11111
+ p: 136 e to 1008 p = -7.41176
+ u: 96 e to 272 p = -2.83333
+ w: 192 e to 0 p = inf
+ d: 1880 e to 1268 p = 1.48265
